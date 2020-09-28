@@ -1,0 +1,6 @@
+io:
+  reflectoring:
+    security:
+      enabled: true
+server:
+  port: 8080

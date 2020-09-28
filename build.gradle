@@ -1,0 +1,5 @@
+tasks.withType(JavaCompile) {
+    options.fork = true;
+}
+
+apply plugin: 'maven'
